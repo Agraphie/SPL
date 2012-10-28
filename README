@@ -1,3 +1,4 @@
 Perl and Lingua::Shakespeare 1.00 needed to compile.
+SPL allows only integer or float input, while FizzBuzz only integer input allows.
 
 http://progopedia.com/version/linguashakespeare-1.00/
